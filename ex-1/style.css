@@ -1,1 +1,23 @@
-/* Start coding here */
+* {
+  margin: 0px;
+}
+.Main {
+  background-color: darkgray;
+  width: 100vw;
+  height: 5vh;
+  padding: 30px;
+}
+
+.container-1 {
+  margin: 20px;
+  padding: 10px;
+  width: 40%;
+  border: 2px solid darkgray;
+}
+
+.container-2 {
+  margin: 20px;
+  padding: 10px;
+  width: 40%;
+  border: 2px solid darkgray;
+}
